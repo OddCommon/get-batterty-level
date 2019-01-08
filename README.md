@@ -1,5 +1,11 @@
-## 内容
+###  [ `Return | 首页` ](https://github.com/PicoSupport/PicoSupport)
+* [AndroidDemo | 安卓](https://github.com/PicoSupport/PicoSupport/blob/master/android.md)
+* [UnityDemo | Unity3d](https://github.com/PicoSupport/PicoSupport/blob/master/unity.md)
+
+# Detail | 内容
 - Unity_Demo_获取设备电量
+- Unity_Demo_BatteryManager
+
 ## Pico技术支持
 欢迎更多地了解我们，如果您有任何问题，请联系我们。
 Learn about us, and contact us if you have any questions. 
