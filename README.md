@@ -4,15 +4,19 @@
 
 ### Unity_Demo_BatteryManager
 
-### Unity版本：
+### Unity_Versions：
+- 2017.1.0f3
 
-### 功能：
+### Explain 说明：
 
-### 使用：
+- Show Battery Level 显示设备电量
 
-### 使用插件：
+### Use 使用：
+- 打开项目文件>
 
-### 注意事项：
+### Plug-in  使用插件：无
+
+### Announcements 注意事项：
 
 ## Pico技术支持
 欢迎更多地了解我们，如果您有任何问题，请联系我们。
