@@ -14,8 +14,7 @@ Demo Main code **BatteryManager.cs**
 
 ## Usage：
 - Scene： Assets -> Scenes -> ShowBatteryLevel
-- Pack the Apk file, open it in the pico device, and you can see the current power of the device
 
-## Announcements：
+- Pack the Apk file, open it in the pico device, and you can see the current power of the device
 - This demo cannot be tested on Pc
 
