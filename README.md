@@ -51,7 +51,7 @@ public class BatteryManager : MonoBehaviour {
 ```
 
 ## Use：
-- Find： Assets -> Scenes -> ShowBatteryLevel
+- DemoScene： Assets -> Scenes -> ShowBatteryLevel
 - Pack the Apk file, open it in the pico device, and you can see the current power of the device
 
 ## Announcements：
