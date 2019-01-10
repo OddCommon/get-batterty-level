@@ -5,7 +5,7 @@
 ### Unity_Demo_BatteryManager
 
 ### Unity_Versions：
-- 2017.1.0f3
+- 2017.1.0f3 Or UP
 
 ### Explain 说明：
 
