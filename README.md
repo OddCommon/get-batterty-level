@@ -2,21 +2,21 @@
 * [AndroidDemo | 安卓](https://github.com/PicoSupport/PicoSupport/blob/master/android.md)
 * [UnityDemo | Unity3d](https://github.com/PicoSupport/PicoSupport/blob/master/unity.md)
 
-### Unity_Demo_BatteryManager
+## Unity_Demo_BatteryManager
 
-### Unity_Versions：
+## Unity_Versions：
 - 2017.1.0f3 Or UP
 
-### Explain 说明：
+## Explain 说明：
 
 - Show Battery Level 显示设备电量
 
-### Use 使用：
+## Use 使用：
 - 打开项目文件>
 
-### Plug-in  使用插件：无
 
-### Announcements 注意事项：
+## Announcements 注意事项：
+- 123
 
 ## Pico技术支持
 欢迎更多地了解我们，如果您有任何问题，请联系我们。
