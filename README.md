@@ -7,14 +7,9 @@
 
 ## Description：
 
-- Access the current power of pico device
-
-Demo Main code **BatteryManager.cs**
+- This demo shows how to access the current battery level of Pico device
+-	Related codes are in BatteryManager.cs script
 
 
 ## Usage：
 - Scene： Assets -> Scenes -> ShowBatteryLevel
-
-- Pack the Apk file, open it in the pico device, and you can see the current power of the device
-- This demo cannot be tested on Pc
-
